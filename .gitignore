@@ -1,0 +1,9 @@
+# Ignore FAISS vector store
+faiss_index/
+*.faiss
+*.pkl
+
+# Ignore virtual environment
+venv/
+.venv/
+env/
